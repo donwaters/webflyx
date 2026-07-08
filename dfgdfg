@@ -1,0 +1,60 @@
+[33mcommit cac334d2ac142485a46c21b9c205c9c5d4321c0c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madd_classics[m[33m)[m
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Tue Jul 7 03:27:38 2026 -0700
+
+    L: added line 8 to classics.csv
+
+[33mcommit 5dcee48e00584bc9c42bfcab48998feab8944480[m[33m ([m[1;31morigin/update_dune[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32madd-classics[m[33m)[m
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Fri Jul 3 00:17:48 2026 -0700
+
+    I: updated dune.md line 6
+
+[33mcommit 4c0489fe368eb4d83da76470b533438d5283a3e4[m
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Fri Jul 3 00:16:50 2026 -0700
+
+    H: updated dune.md line 5
+
+[33mcommit 885616eef329406ed8adf8b018e0fc96f6e5e675[m
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Thu Jul 2 01:46:21 2026 -0700
+
+    G: update_titles + new branch
+
+[33mcommit 809ee9b8d3f51016663c3bd1e498bfa68d57e6e9[m
+Merge: f341b5c ab30dc5
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Thu Jul 2 01:08:33 2026 -0700
+
+    F: Merge branch 'add_classics'
+
+[33mcommit f341b5cf14483caa8c8d514d2f1e4d55823e3117[m
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Thu Jul 2 00:50:40 2026 -0700
+
+    E: changed contents.md
+
+[33mcommit ab30dc520084db1b4bae2944a58af0d24ae151f7[m
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Wed Jul 1 17:59:15 2026 -0700
+
+    D: added classics.csv
+
+[33mcommit 353c6488ef13964016b324627e4ef5781bbdcde6[m
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Sat Jun 27 19:24:10 2026 -0700
+
+    C: add quotes.
+
+[33mcommit 19109dc7baa95b22781645c7e9b911b9cae3fd6a[m
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Sat Jun 27 18:18:01 2026 -0700
+
+    B: add titles
+
+[33mcommit f8768adc48990dc15d4776818c91eed0077f3fc5[m
+Author: donwaters <donald.g.waters@protonmail.com>
+Date:   Tue Jun 23 23:26:39 2026 -0700
+
+    A: add contents.md
